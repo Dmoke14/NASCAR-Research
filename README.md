@@ -1,5 +1,5 @@
 # NASCAR Research
-University sponsored research focused on sport analytics.
+University sponsored research focused on sport analytics. March 2020.
 
 ## Data
 This folder consists of the data I gathered and collected from the internet myself. Most files are utilized in SAS, though some never contributed to the project itself. 

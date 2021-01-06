@@ -11,7 +11,7 @@ Locations I found this data include:
 - https://www.racing-reference.info/trackdet?s=3&show=1&series=W&trk=029
 - https://fantasyracingcheatsheet.com/nascar/races/schedule
 
-It is worth nothing that "Track Type.xlsm" uses an SQL query to automate data collection.
+It is worth noting that "Track Type.xlsm" uses an SQL query to automate data collection.
 
 ## SAS Code
 The code shared consists of three separate .sas files. All datasets created for this project were stored in libraries so that other programs could access any dataset seamlessly. Because of this, the "coherent" way to read through this project (or if one were to replicate it) starts with "NASCAR Merge", then "Track Type", and finishes with "Team ANOVA". Additionally, I utilized local paths which would be different if reproduced elsewhere.

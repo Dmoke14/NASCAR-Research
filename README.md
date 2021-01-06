@@ -14,7 +14,7 @@ Locations I found this data include:
 It is worth nothing that "Track Type.xlsm" uses an SQL query to automate data collection.
 
 ## SAS Code
-The code shared consists of three separate .sas files. All datasets created for this project were stored in libraries so that other programs could access any dataset seamlessly. Because of this, the "coherent" way to read through this project (or if one were to replicate it) starts with "NASCAR Merge", then "Track Type", and finishes with "Team ANOVA". Additionally, I utilized local paths would be different if reproduced elsewhere.
+The code shared consists of three separate .sas files. All datasets created for this project were stored in libraries so that other programs could access any dataset seamlessly. Because of this, the "coherent" way to read through this project (or if one were to replicate it) starts with "NASCAR Merge", then "Track Type", and finishes with "Team ANOVA". Additionally, I utilized local paths which would be different if reproduced elsewhere.
 
 "NASCAR Merge" uses PROC SQL and macro programs to merge together most of the data so that it is useable for other purposes. 
 
